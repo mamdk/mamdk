@@ -8,7 +8,7 @@ My name is Mohammad Hossein, I am a front-end developer and I live in Iran-Esfah
 
 ## Skills / Languages
 
- - `<?php ?>` not bad
+- `<?php ?>` not bad
 - `JavaScript` great
 - `Vue.Js` Good
 - `React.js` great
