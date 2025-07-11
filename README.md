@@ -48,7 +48,13 @@
 ### [Pharket – Pharmaceutical B2B Platform](https://pharket.online)  
 `Node.js` `React` `REST/GraphQL Hybrid`  
 - Developed scaffolded admin panel controlled by backend  
-- Integrated Redis for real-time inventory updates  
+- Integrated Redis for real-time inventory updates
+  
+### [Nirvana – Investment Platform](https://nirvanaec.com)  
+`Node.js` `React` `REST/GraphQL Hybrid`  
+- Designed and developed a full-featured e-commerce platform for economy investment using React (frontend) and Node.js (backend).
+- Developed scaffolded admin panel and attendee panel controlled by backend  
+- Built the app as a Progressive Web App (PWA) to support installation on mobile devices with offline capability.
 
 ### [Personal Website](https://mhmk.ir)  
 `React` `Canvas` `SEO Optimized`  
