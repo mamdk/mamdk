@@ -29,7 +29,7 @@
 ---
 
 ## 💼 **Key Experiences**  
-- **Hamrah Gostare Nirvana** (10mo): Built hybrid Node.js/GraphQL backend systems  
+- **Hamrah Gostare Nirvana** (10mo): Built hybrid Node.js/GraphQL backend systems and front structure with react 
 - **Hamresan** (28mo):  
   - Optimized frontend to **<40ms load times**  
   - Designed Redis caching reducing API latency by **65%**  
@@ -39,31 +39,32 @@
 
 ## 🚀 **Featured Projects**  
 
-### [Rasayesh – Event Management Platform](https://github.com/yourusername/rasayesh)  
+### [Rasayesh – Event Management Platform](https://rasayesh.com)  
 `Node.js` `React` `GraphQL` `Microservices`  
 - Implemented RBAC with dynamic event-specific permissions  
-- Migrated monolith to microservices (300% scalability boost)  
+- Migrated monolith to microservices (300% scalability boost)
+- developed +5 sub-sites
 
 ### [Pharket – Pharmaceutical B2B Platform](https://pharket.online)  
 `Node.js` `React` `REST/GraphQL Hybrid`  
 - Developed scaffolded admin panel controlled by backend  
 - Integrated Redis for real-time inventory updates  
 
-### [Personal Website](https://yourwebsite.com) *(Showcase your work here!)*  
-`React` `PWA` `SEO Optimized`  
-- Built with offline capabilities and eNAMAD certification  
+### [Personal Website](https://mhmk.ir)  
+`React` `Canvas` `SEO Optimized`  
+- Built my presonal website with personal UI/UX and React
 
 ---
 
 ## 📊 **GitHub Analytics**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mamdk&show_icons=true&theme=radical&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamdk&layout=compact&theme=radical)  
 
 ---
 
 ## 📫 **Let's Connect**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-hossein-maktoobian)  
 [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mohammadhosseinmaktoobian@gmail.com)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
+[![Telegram](https://img.shields.io/badge/Telegram-1DA1F2?logo=telegram&logoColor=white)](https://t.me/mhmkme)  
 
 > "I optimize systems at **every layer** - from browser caching to database sharding."  
