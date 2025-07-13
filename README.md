@@ -11,12 +11,14 @@
 
 ### **Frontend**  
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-515151?logo=next.js&logoColor=black)
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Web Audio API](https://img.shields.io/badge/Web_Audio_API-000000?logo=web-audio-api&logoColor=white)  
 
 ### **Backend**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-999999?logo=express&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-1890FF?logo=micrometer&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)  
@@ -58,7 +60,7 @@
 
 ### [Personal Website](https://mhmk.ir)  
 `React` `Canvas` `SEO Optimized`  
-- Built my presonal website with personal UI/UX and React
+- Built my personal website with personal UI/UX and React
 
 ---
 
