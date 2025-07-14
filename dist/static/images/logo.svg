@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="0.568622in" height="0.610134in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 128.59 137.98"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#FF9500;stroke-width:8.54;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.61313}
+    .str0 {stroke:#8E8E93;stroke-width:8.54;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.61313}
+    .fil0 {fill:none}
+    .fil2 {fill:#8E8E93;fill-rule:nonzero}
+    .fil1 {fill:#FF9500;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2330782484096">
+   <g>
+    <polyline class="fil0 str0" points="4.27,132.23 4.27,5.86 52.35,58.78 "/>
+   </g>
+   <g>
+    <path class="fil1" d="M103.36 130.8c1.61,1.74 1.51,4.45 -0.22,6.05 -1.73,1.6 -4.44,1.49 -6.05,-0.25l6.27 -5.8zm-77.33 -83.54l77.33 83.54 -6.27 5.8 -77.33 -83.54 6.27 -5.8zm-6.27 5.8c-1.61,-1.74 -1.51,-4.45 0.22,-6.05 1.73,-1.6 4.44,-1.49 6.05,0.25l-6.27 5.8z"/>
+   </g>
+   <g>
+    <line class="fil0 str1" x1="56.08" y1="84.87" x2="102.89" y2= "4.27" />
+   </g>
+   <g>
+    <path class="fil2" d="M128.59 133.43c0,2.37 -1.91,4.29 -4.27,4.29 -2.36,0 -4.27,-1.92 -4.27,-4.29l8.54 0zm-0 -128.09l0 128.09 -8.54 0 -0 -128.09 8.54 0zm-8.54 0c0,-2.37 1.91,-4.29 4.27,-4.29 2.36,0 4.27,1.92 4.27,4.29l-8.54 0z"/>
+   </g>
+   <g>
+    <path class="fil2" d="M80.54 85.2c-1.34,0 -2.43,-1.9 -2.43,-4.24 0,-2.34 1.09,-4.24 2.43,-4.24l0 8.48zm43.79 0l-43.79 0 0 -8.48 43.79 0 0 8.48zm0 -8.48c1.34,0 2.43,1.9 2.43,4.24 0,2.34 -1.09,4.24 -2.43,4.24l0 -8.48z"/>
+   </g>
+  </g>
+ </g>
+</svg>

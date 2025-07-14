@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="0.568622in" height="0.610134in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 605.21 649.4"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#FF9500;stroke-width:40.19;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.61313}
+    .str0 {stroke:black;stroke-width:40.19;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.61313}
+    .fil0 {fill:none}
+    .fil2 {fill:black;fill-rule:nonzero}
+    .fil1 {fill:#FF9500;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g>
+   <polyline class="fil0 str0" points="20.09,622.33 20.09,27.56 246.4,276.65 "/>
+  </g>
+  <g>
+   <path class="fil1" d="M486.47 615.6c7.58,8.19 7.12,20.94 -1.03,28.47 -8.15,7.53 -20.9,7 -28.48,-1.19l29.51 -27.29zm-363.96 -393.17l363.96 393.17 -29.51 27.29 -363.96 -393.17 29.51 -27.29zm-29.51 27.29c-7.58,-8.19 -7.12,-20.94 1.03,-28.47 8.15,-7.53 20.9,-7 28.48,1.19l-29.51 27.29z"/>
+  </g>
+  <g>
+   <line class="fil0 str1" x1="263.95" y1="399.41" x2="484.22" y2= "20.09" />
+  </g>
+  <g>
+   <path class="fil2" d="M605.21 627.99c0,11.16 -9,20.21 -20.09,20.21 -11.1,0 -20.09,-9.05 -20.09,-20.21l40.19 0zm-0 -602.82l0 602.82 -40.19 0 -0 -602.82 40.19 0zm-40.19 0c0,-11.16 9,-20.21 20.09,-20.21 11.1,0 20.09,9.05 20.09,20.21l-40.19 0z"/>
+  </g>
+  <g>
+   <path class="fil2" d="M379.03 401c-6.32,0 -11.45,-8.94 -11.45,-19.96 0,-11.02 5.13,-19.96 11.45,-19.96l0 39.93zm206.09 0l-206.09 0 0 -39.93 206.09 0 0 39.93zm0 -39.93c6.32,0 11.45,8.94 11.45,19.96 0,11.02 -5.13,19.96 -11.45,19.96l0 -39.93z"/>
+  </g>
+ </g>
+</svg>
